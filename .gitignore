@@ -1,0 +1,9 @@
+config/
+properties/*.build.properties
+!properties/ci.build.properties
+properties/retrieve.properties
+resource-bundles/
+*.sublime-*
+.sfdx/
+.history/
+.vscode/
