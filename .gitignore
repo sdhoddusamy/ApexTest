@@ -7,3 +7,6 @@ resource-bundles/
 .sfdx/
 .history/
 .vscode/
+.forceignore
+sfdx-project.json
+.gitignore
